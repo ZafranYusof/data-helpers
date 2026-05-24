@@ -1,0 +1,14 @@
+{
+  "name": "data-helpers",
+  "version": "2.0.1",
+  "description": "Functional data transformation helpers for arrays and objects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/",
+    "build": "babel src -d dist"
+  },
+  "keywords": ["functional", "array", "object", "transform", "helpers"],
+  "author": "RaizenXxx",
+  "license": "MIT"
+}
